@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7765dc521052c59a0a536846709e4265124ae20e45b74ada888ff209ea729eed"
+            "sha256": "ebb50ef894e1fa3bccafd1a8e186b52676bdf0c70da1148f9db0d0179e577e66"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.6"
+            "python_version": "3.7"
         },
         "sources": [
             {
@@ -78,17 +78,11 @@
             ],
             "version": "==2.7"
         },
-        "idna-ssl": {
-            "hashes": [
-                "sha256:a933e3bb13da54383f9e8f35dc4f9cb9eb9b3b78c6b36f311254d6d0d92c6c7c"
-            ],
-            "markers": "python_version < '3.7'",
-            "version": "==1.1.0"
-        },
         "molotov": {
             "hashes": [
                 "sha256:6bc760c0eda21cd015a4abc4be50de2703afd245459338f23442eb0573369786"
             ],
+            "index": "pypi",
             "version": "==1.6"
         },
         "multidict": {
